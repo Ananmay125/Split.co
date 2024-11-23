@@ -4,4 +4,6 @@
 
 ### 0.01% complete 
 
-Powered by Next.js
+Powered by Next.js and MongoDB.
+
+Written in TypeScript.
